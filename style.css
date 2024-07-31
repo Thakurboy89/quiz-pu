@@ -24,7 +24,7 @@ body {
   margin: 2rem auto;
   padding: 1rem;
   border-radius: 20px;
-  background-color: #fff;
+  background-color: #52256d;
   position: relative;
 }
 #scoreDiv {
@@ -81,7 +81,13 @@ button {
   box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.4);
 }
 footer{
+  bottom:20PX;
   text-align: center;
   color: orangered;
-  background-color: wheat;
+  background-color: rgb(212, 183, 127);
+  position:absolute;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 20px ;
 }
